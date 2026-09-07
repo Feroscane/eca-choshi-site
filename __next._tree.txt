@@ -3,4 +3,4 @@
 :HL["/images/classroom-hero.png","image"]
 :HL["/images/teacher-illustration.png","image"]
 :HL["/images/student-illustration.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"k62zuxNNs4-NE_lqgHnrf"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"jV7-EZ7c9tFk0tNquWjrl"}
